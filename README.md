@@ -5,7 +5,7 @@ This program finds a path in a 2D array between 2 given points in the presence o
 
 ### Setup and running
 * `pip install matplotlib, shapely`
-* `python ERC.py`
+* `python main.py`
 
 ### Path Planning
 Defined as, finding a geometrical path from a given point to another such that it avoids obstacles, path planning appears really simple.
